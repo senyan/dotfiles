@@ -15,6 +15,7 @@ plugins=(
   https://github.com/csexton/jekyll.vim.git
   https://github.com/gregsexton/gitv.git
   https://github.com/xolox/vim-session.git
+  https://github.com/xolox/vim-misc.git
 
   https://github.com/tsaleh/vim-align.git
   https://github.com/tsaleh/vim-matchit.git
